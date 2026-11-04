@@ -4,6 +4,12 @@
     <title>True Broker</title>
     <!-- Newest version first. Items are added by release.sh in the app project. -->
     <item>
+      <title>Version 1.0.2611040 (7)</title>
+      <description>إضافة وضع الإستعلامات (السعر والمخزون)، إعدادات مسح موحدة لكل الأوضاع، وواجهة رئيسية بالعربية. New inquiries mode (price and stock), shared scan settings for all modes, and an Arabic home screen.</description>
+      <pubDate>Wed, 04 Nov 2026 12:33:43 GMT</pubDate>
+      <enclosure url="https://github.com/amr-alawaad99/true-broker-releases/releases/download/v1.0.2611040/TrueBroker-1.0.2611040.apk" sparkle:version="1.0.2611040" sparkle:os="android" type="application/vnd.android.package-archive" />
+    </item>
+    <item>
       <title>Version 1.0.2611030 (6)</title>
       <description>تحسينات عامة وإصلاح أخطاء. General improvements and bug fixes.</description>
       <pubDate>Tue, 03 Nov 2026 11:19:04 GMT</pubDate>
